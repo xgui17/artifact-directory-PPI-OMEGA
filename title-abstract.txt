@@ -1,5 +1,31 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+PPI-OMEGA: Integrating Multi-Omics Data to Enhance Protein-Protein Interaction Predictions Using Variational Graph Autoencoders
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Protein-protein interaction (PPI) networks are essential for understanding
+molecular mechanisms governing biological systems, with applications in drug
+discovery, functional genomics, and disease pathway identification. However,
+existing computational approaches for predicting PPIs face limitations due to
+their reliance on static interaction data, the absence of multi-omics integra-
+tion, and significant computational costs when applied to large-scale biolog-
+ical datasets. To address these challenges, we present PPI-OMEGA, a Vari-
+ational Graph Autoencoder (VGAE)-based framework that integrates multi-
+omics data to enhance PPI prediction. Our model combines RNA expression
+profiles and immunohistochemistry (IHC) protein expression levels as node
+attributes in a graph-based learning framework. The encoder in the model
+architecture efficiently learns biologically meaningful protein embeddings by
+leveraging graph convolutional layers, while the decoder reconstructs the PPI
+network, capturing both network topology and molecular context.
+
+To assess model performance, we benchmark our approach against traditional
+PPI prediction methods and evaluate it using Area Under the Receiver Op-
+erating Characteristic Curve (AUROC) and Average Precision (AP). Results
+demonstrate that incorporating multi-omics data significantly improves pre-
+dictive accuracy, with the RNA and protein expression-based model achieving the high-
+est AUROC (0.9115) and AP (0.9198), outperforming RNA-only and protein-only
+models. Moreover, our framework reduces computational overhead
+by generating reusable embeddings that facilitate downstream tasks such as
+disease association studies and functional classification. These findings high-
+light the potential of graph-based multi-omics integration to improve disease-
+relevant PPI modeling and support precision medicine applications.
+

@@ -1,6 +1,6 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/xgui17/artifact-directory-PPI-OMEGA.git",
+    "project-repository": "https://github.com/EliteApex/PPI-OMEGA.git",
+    "project-website-url": "https://xgui17.github.io/PPI-OMEGA-Website/",
+    "project-website-code": "https://github.com/xgui17/PPI-OMEGA-Website.git"
 }
