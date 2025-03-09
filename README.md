@@ -1,4 +1,4 @@
-# artifact-directory-template
+<!-- # artifact-directory-template
 
 This repository is a template for turning in links/locations to your
 project artifacts. Instructions:
@@ -24,4 +24,4 @@ project artifacts. Instructions:
      website's source code (if it's the same as your code repository,
      then re-list that URL here).
 5. Turn in the forked repository to Gradescope **as a group** (that is, make only one submission).
-   * The autograder on Gradescope just ensures that you submitted everything in the correct format.
+   * The autograder on Gradescope just ensures that you submitted everything in the correct format. -->
